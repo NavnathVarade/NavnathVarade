@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navnath Varade</h1>
-<h3 align="center">Aspiring MERN Stack Developer</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 I'm passionate about web development and currently focused on mastering the MERN (MongoDB, Express.js, React, Node.js) stack. I love creating efficient and scalable web applications, and I'm always eager to learn and improve my skills.
 
@@ -11,7 +11,7 @@ I'm passionate about web development and currently focused on mastering the MERN
 <p align="left">
 <a href="https://twitter.com/@varadenavnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@varadenavnath" height="30" width="40" /></a>
 <a href="https://instagram.com/_navnathvarade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_navnathvarade" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/navnath-varade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navnath-varade" height="30" width="40" /></a>
+<a href="mailto:connectwith.navnath@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
 ### 🔧 Languages and Tools
@@ -48,7 +48,5 @@ I'm passionate about web development and currently focused on mastering the MERN
   </a>
 </p>
 
-
 ### 🌐 Let's Connect
 Feel free to connect with me on social media or via email. I'm always open to discussing web development, new technologies, and potential collaborations.
-
